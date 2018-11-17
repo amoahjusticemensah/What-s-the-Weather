@@ -51,10 +51,11 @@
     <TextView
         android:id="@+id/resultTextView"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="136dp"
         android:layout_alignParentBottom="true"
         android:layout_alignStart="@+id/textView"
-        android:layout_marginBottom="122dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="1dp"
         android:textColor="@android:color/background_dark"
         android:textSize="40sp" />
 
